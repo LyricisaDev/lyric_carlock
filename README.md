@@ -1,5 +1,6 @@
 # lyric_carlock
-![Downloads badge](https://get-badge.herokuapp.com/USERNAME/REPOSITORY)
+![GitHub All Releases](https://img.shields.io/github/downloads/USERNAME/REPOSITORY/total.svg)
+
 
 ## Overview
 The `lyric_carlock` script is designed for the ESX framework for FiveM, an online multiplayer modification framework. This script provides a comprehensive vehicle locking and unlocking system, complete with notifications and animations. It ensures that only the owners of vehicles can lock and unlock their cars, enhancing the role-playing experience on your server.
