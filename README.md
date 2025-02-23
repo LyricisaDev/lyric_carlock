@@ -1,5 +1,6 @@
 # lyric_carlock
-![GitHub All Releases](https://img.shields.io/github/downloads/USERNAME/REPOSITORY/total.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/LyricisaDev/
+lyric_carlock/total.svg)
 
 
 ## Overview
