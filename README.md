@@ -15,4 +15,4 @@ The `lyric_carlock` script is designed for FiveM, an online multiplayer modifica
 2. **Add to Server.cfg**: Add the following line to your `server.cfg`
    ensure lyric_carlock
 
-for custom work or cheap fivem script come to my discord https://discord.gg/Ppfws8XJJ8
+for custom work or cheap fivem scripts come to my discord https://discord.gg/Ppfws8XJJ8
