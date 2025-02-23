@@ -17,7 +17,7 @@ The `lyric_carlock` script is designed for the ESX framework for FiveM, an onlin
    ensure lyric_carlock
 
 ## Dependency
-**[![ox_lib](https://img.shields.io/badge/Button-Click%20Here-blue)](https://github.com/overextended/ox_lib/releases/tag/v3.29.0)
+[![ox_lib](https://img.shields.io/badge/Button-Click%20Here-blue)](https://github.com/overextended/ox_lib/releases/tag/v3.29.0)
 
 
 ## How To Contact me
