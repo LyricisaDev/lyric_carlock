@@ -13,6 +13,8 @@ The `lyric_carlock` script is designed for the ESX framework for FiveM, an onlin
 ## Installation
 1. **Download and Extract**: Download the script and extract the contents to your FiveM server resources directory.
 2. **Add to Server.cfg**: Add the following line to your `server.cfg`
+   
    ensure lyric_carlock
 
+## How To Contact me
 for custom work or cheap fivem scripts come to my discord https://discord.gg/Ppfws8XJJ8
